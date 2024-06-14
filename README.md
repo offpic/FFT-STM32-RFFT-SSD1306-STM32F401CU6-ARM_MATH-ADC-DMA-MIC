@@ -1,3 +1,5 @@
+FFT STM32 RFFT SSD1306 STM32F401CU6 ARM_MATH ADC DMA MIC
+
 https://www.youtube.com/watch?v=KXIDSrEfdHs
 
 
